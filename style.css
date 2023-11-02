@@ -1,0 +1,196 @@
+body {
+
+    background-color: black;
+
+}
+ 
+.topnav {
+
+    height: 60px;
+
+    width: 100%;
+
+    overflow: hidden;
+
+    display: flex;
+
+    justify-content: space-between;
+
+    align-items: center;
+
+    font-weight: bolder;
+
+
+}
+ 
+.start a {
+
+    font-size: 30px;
+
+    margin-left: 100px; 
+
+    background: linear-gradient(90deg, #4E4BE4 24.42%, #E862FE 73.78%);
+
+    -webkit-background-clip: text;
+    
+    -webkit-text-fill-color: transparent;
+
+    text-decoration: none;
+
+    padding: 14px 16px; 
+
+    font-weight: bolder;
+
+}
+ 
+.end a {
+
+    color: rgb(247, 245, 245);
+
+    text-decoration: none;
+
+    padding: 14px 16px;
+
+    margin-left: 30px;
+
+    font-weight: bolder;
+
+}
+ 
+.topnav a:hover {
+
+    background-color: #555;
+
+    color: white;
+
+}
+ 
+.button {
+
+    background-color: #4F4CE5;
+
+    border: none;
+
+    border-radius: 20px;
+
+    padding: 10px 20px;
+
+    color: white;
+
+    margin-right: 120px;
+
+}
+ 
+.button:hover {
+
+    background-color: #4F4CE5;
+
+}
+ 
+.middletext {
+
+    font-size: 55px;
+
+    background: linear-gradient(90deg, #4E4BE4 24.42%, #E862FE 73.78%);
+
+    -webkit-background-clip: text;
+    
+    -webkit-text-fill-color: transparent;
+
+    -webkit-background-clip: text;  
+    
+    -webkit-text-fill-color: transparent;
+
+    text-align: center;
+    
+    font-weight: bolder;
+
+}
+
+.text1 {
+
+    text-align: center;
+
+    background: linear-gradient(90deg, #4E4BE4 24.42%, #E862FE 73.78%);
+
+    -webkit-background-clip: text;
+    
+    -webkit-text-fill-color: transparent;
+
+    font-size: 40px;
+
+    font-weight: bolder;
+
+    margin-top: 120px;
+
+    }
+ 
+.text2{
+
+    text-align: center;
+
+    background: linear-gradient(90deg, #4E4BE4 24.42%, #E862FE 73.78%);
+
+    -webkit-background-clip: text;
+    
+    -webkit-text-fill-color: transparent;
+
+    font-size: 40px;
+
+    font-weight: bolder;
+
+    margin-top: 320px;
+
+}
+
+.img1 {
+
+    display: block;
+
+    margin-left: auto;
+
+    margin-right: auto;
+
+    width: 25%;
+
+}
+ 
+.paragraph {
+
+    text-align: center;
+
+    color: white;
+
+    font-size: 30px;
+
+}
+ 
+.container {
+
+    width: 50%;
+
+    float:left; 
+
+    height:30px;
+
+    margin:10px;
+
+}
+ 
+.text3 {
+
+    color: white;
+
+    font-size: 40px;
+    
+    font-weight: bolder;
+
+}
+ 
+.paragraph2 {
+
+    color: white;
+
+    font-size: 20px
+
+}
